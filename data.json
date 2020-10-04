@@ -179,6 +179,18 @@
       "facebook": "rojasjuniore",
       "linkedin": "rojasjuniore",
       "github": "rojasjuniore"
+    }, 
+    {
+      "id": 100,
+      "imageName": "rojasjuniore.jpeg",
+      "name": "Junior Firpo",
+      "role": "casi nerd 👨🏻‍💻, casi pelado👩🏻‍🦲, casi fit 🏋🏻‍♀ ",
+      "about": "do-programming-like-movies-and-sports.com",
+      "funfact": "Giant pandas may be raccoons",
+      "twitter": "rojasjuniore",
+      "facebook": "rojasjuniore",
+      "linkedin": "rojasjuniore",
+      "github": "rojasjuniore"
     }
   ]
 }

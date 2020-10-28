@@ -36,7 +36,7 @@ Step 8 : Put a comma after the last object then paste what you copied
 
 Step 9 : Edit all details of the pasted object and save `data.json`
 
-Step 10 : Push your code to github
+Step 10 : Push your code to GitHub
 
 Step 11 : Make a PR
 

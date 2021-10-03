@@ -38,7 +38,7 @@ Step 9 : Edit all details of the pasted object and save `data.json`
 
 Step 10 : Push your code to GitHub
 
-Step 11 : Make a PR
+Step 11 : Make a Pull Request (PR)
 
 # Rewards
 
